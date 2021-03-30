@@ -1,22 +1,25 @@
-# TÍTULO DO PROJETO
+# Notfy
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1º Semestre 2021/1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Flávio Duarte Carvalho 
+- Janaina Jamarino Rosa Dopazo
+- Leandro David Metzker 
+- Luiza Jamarino Rosa Grigório
+- Platiní Gomes da Rocha
+- Priscilha Alves
 
 ## Professor
 
-- Mestre Yoda
-
+- Luiz Alberto Ferreira Gomes
 # Documentação
 
 <ol>
