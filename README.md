@@ -6,7 +6,7 @@
 
 `1º Semestre 2021/1`
 
-Notfy - é uma aplicação web voltada para a otimização do processo de notificações extrajudiciais cartorárias. O projeto contribuirá para elaboração das melhores rotas, permitirá o monitoramento do trabalho e a documentação das suas etapas. Será possível reduzir os custos de intimação, a tempo para a entrega do serviço, além de aumentar a segurança de todo o processo.
+Notfy - é uma aplicação web voltada para a otimização do processo de notificações extrajudiciais cartorárias. O projeto contribuirá para elaboração das melhores rotas, permitirá o monitoramento do trabalho e a documentação das suas etapas. Será possível reduzir os custos de intimação, o tempo para a entrega do serviço, além de aumentar a segurança de todo o processo.
 
 
 ## Integrantes
