@@ -9,6 +9,22 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Cíntia
+Idade: 45 anos
+Gênero: Feminino 
+Profissão: Advogada e Tabeliã 
+Instrução: Bacharel em Direito 
+Estado civil: Casada 
+Cidade: Contagem
+Mídias: Facebook e Instagram  
+
+Um pouco da sua historia
+É advogada e tabeliã em um cartório na região de Contagem/MG. Casada e mãe de duas crianças, gosta de passar o tempo livre com sua família.
+Ela tem um perfil analítico e focada em conhecimento, obcecada com novidades e inovações. Quer sempre qualificar sua equipe, porém não dispõe de muito tempo e sua agenda está sempre apertada.
+
+Desafios 
+Ela gostaria de aumentar seus resultados utilizando ferramentas tecnológicas que simplifiquem seus processos diários otimizando tempo e gerando melhores resultados - com estratégias inovadoras, ser referência no mercado.
+Seus principais obstáculos são a falta de orçamento para investir em novas soluções, o excesso de tarefas e a dificuldade de gestão de tempo, além da pouca mão de obra disponível para colocar em prática todas as suas ideias.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 

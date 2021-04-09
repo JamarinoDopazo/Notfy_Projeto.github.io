@@ -1,36 +1,30 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto Notfy visa otimizar o processo de notificações extrajudiciais cartorárias, à princípio, no setor imobiliário. Uma notificação extrajucial é um ato praticado como forma de dar conhecimento de uma informação ao notificado. A notificação é uma espécie de carta escrita, onde constam os fatos que a motivaram, a relação jurídica em questão e o prazo para seu cumprimento (que pode, ou não ser previsto em lei). As notificações podem ser utilizadas para tentar resolver um conflito de forma amigável, antes que ele chegue ao poder judiciário.
+Desde o ano de 1997, com a criação da lei 9514, a alienação fiduciária passou a substituir a hipoteca como forma de estimular a oferta de crédito imobiliário, pois representa um menor custo e maior celeridade no processo. Nessa relação, o imóvel fica alienado em favor do credor até que o devedor quite com todas as prestações constantes em contrato. Quando o mesmo se torna inadimplente, o credor poderá requerer a consolidação da propriedade, em juízo, para saldar a dívida. Nesse caso, o credor deverá providenciar a intimação o devedor, por meio do cartório de registro de imóveis na localidade do imóvel, sendo concedido ao notificado o prazo de 15 dias para o pagamento das parcelas atrasadas. Não havendo o pagamento, o credor fiduciário pode requer a consolidação da propriedade em seu nome.
+As notificações realizar-se-ão conforme parâmetros estabelecidos em lei, como a obrigatoriedade de tentar localizar o devedor em três tentativas, em dias e horários distintos, não exceder o horário de 18 horas para a realização das mesmas, respeitar domingos e feriados, etc. Além disso, como se trata de um documento de cobrança que estipula um prazo de quitação, o não cumprimento da obrigação pode resultar na perda do imóvel em questão. Torna-se imprescindível uma conduta que se esforce, ao máximo, dar ciência ao notificado do conteúdo do documento e suas consequências. Todas as partes podem se beneficiar de um sistema que atue de forma inteligente para solucionar questões logísticas, de segurança e de tempo de execução que podem resultar num trabalho mais eficaz e seguro para todos os envolvidos. 
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Como tornar o processo de notificações extrajudiciais cartorárias mais ágil, mais barato e mais confiável?
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é otimizar todo o processo de notificação extrajudicial cartorária, através de aplicações de sistema de informação que auxiliem o notificador a desempenhar de forma mais ágil e segura o seu trabalho.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos específicos
+•	Elaborar rotas funcionais que possibilitem que o notificador opte pelos trajetos mais curtos ou mais rápidos, o que poderia gerar uma economia de tempo e de recursos financeiros.
+•	Criar um banco de dados que, através do tempo, possa armazenar informações de intimações cuja relevância interfiram na elaboração das rotas.
+•	Gerar check-in em cada visita, como forma de aumentar a confiabilidade do processo.
+•	Gerar certidão no ato de conclusão da diligência, o que diminuiria o tempo de trabalho do notificador, além de tornar mais célere a devolução dos documentos para o tomador de serviço.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O projeto Notfy pretende controlar e melhorar as etapas de execução do processo de notificação extrajudicial cartorária no ramo imobiliário, gerando maior celeridade e segurança além de um custo mais baixo na realização das intimações. Geralmente o notificador recebe um volume de notificações, com vários endereços distintos e pode realizar até três tentativas de encontrar o devedor, para informá-lo sobre as implicações e consequências contidas no documento. A partir do resultado da diligência, ele ainda deve confeccionar uma certidão para cada intimação concluída, independente do seu resultado. O seu trabalho, então, engloba a escolha das melhores rotas, a definição seu horário de trabalho (lembrando que deve realizar cada uma das três tentativas em horários e dias diferentes) e, após o cumprimento das diligências, certificar cada intimação que recebera. 	
+O Notfy contribuirá significativamente para as escolhas dos melhores caminhos, traçando as rotas mais curtas, ou mais rápidas, para a realização das diligências, o que resultará num ganho de tempo e numa economia financeira, uma vez que o combustível é uma despesa direta dos processos de intimação. Por outro lado, o sistema de check-in aumentará a segurança do processo, pois é uma prova inconteste de que o notificador esteve naquele local, em determinada data e horário. Ainda, pode gerar a certidão no momento em que uma diligência é encerrada, o que diminuiria consideravelmente o tempo de trabalho do mesmo, já que não precisaria redigir cada uma ao fim das diligências. Para o cartório contratante, representaria uma diminuição dos custos de intimação e um maior controle da produtividade de seus funcionários notificadores. Aumentaria a segurança do seu procedimento gerando documentação que corrobora a certificação gerada pelo Cartório, ainda que respaldado pela fé pública e tornando o processo ainda mais confiável. Para o mutuário a quem se destina a notificação, o Notfy aumentaria suas chances de ser encontrado, pois seu banco de dados dará relevância para a experiência gerada em diligências anteriores, como, por exemplo, horário e local onde o notificado fora encontrado noutra ocasião. 
+As notificações cartorárias imobiliárias extrajudiciais são, de certa forma, a última chance do mutuário de negociar sua dívida antes de ter seu imóvel consolidado em favor do credor. Por isso a importância de um procedimento assertivo e confiável para que a informação chegue ao seu destino. Assim o programa cumpre com a sua função social, que é de assegurar ao devedor, que ele tenha a chance de negociar seu imóvel e evitar sua perda. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
