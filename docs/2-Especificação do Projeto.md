@@ -48,8 +48,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir cadastro de administradores e usuários | ALTA |
+|RF-002| Permitir alteração cadastral de administradores e usuários | MÉDIA |
+|RF-003| Permitir exclusão de cadastro de administradores e usuários | MÉDIA |
+|RF-004| Permitir que o usuário cadastre notificandos | ALTA | 
+|RF-005| Permitir que o usuário altere o cadastro  | MÉDIA |
+|RF-006| Permitir que o usuário exclua o cadastro  | MÉDIA |
+|RF-007| Gerar rota a partir dos dados de cada protocolo | ALTA |
+|RF-008| Permitir que o usuário exclua a rota | MÉDIA |
+|RF-009| Permitir que o usuário exclua um ou mais protocolos da rota | MÉDIA |
+|RF-010| Permitir que o usuário inclua um ou mais protocolos na rota | MÉDIA |
+|RF-011| Realizar check-in em cada diligência realizada por notificando | ALTA |
+|RF-012| Permitir que o usuário finalize o protocolo no momento do check-in | ALTA |
+|RF-013| Permitir que o usuário registre a conclusão da diligência no momento do check-in | ALTA |
+|RF-014| Gerar certidão de conclusão toda vez que um protocolo for finalizado | ALTA |
+|RF-015| Permitir que o usuário altere a certidão de conclusão | MÉDIA |
+|RF-016| Permitir que o usuário exclua a certidão de conclusão | MÉDIA |
+|RF-017| Permitir que o administrador visualize as rotas realizadas por usuário | ALTA |
+|RF-018| Permitir que o administrador acesse as estatísticas dos deslocamentos realizados por usuário | MÉDIA |
+
+
 
 
 ### Requisitos não Funcionais
