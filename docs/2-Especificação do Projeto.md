@@ -60,6 +60,29 @@ Seus principais obstáculos são o excesso de tarefas e a dificuldade de gestão
 
 
 
+Joana Dark
+Idade: 47 anos
+Profissão: Notificadora
+Escolaridade: Ensino médio completo
+Estado civil: Casada.
+Cidade: Belo Horizonte - MG
+
+Sobre Joana:
+Joana é uma mulher de 47 anos, mãe de 2 filhos adultos e avó de 1 neto. 
+Trabalha como notificadora a 20 anos. Não tem a pretensão de avançar nos estudos e está satisfeita com sua escolarização e profissão. Também não gosta de ferramentas complicadas.
+Após o expediente, Joana faz doces para a confeitaria que ele tem em casa com uma de suas filhas. 
+
+Lazer:
+Nos momentos de lazer, gosta de assistir novelas e ler revistas e ter um tempo livre com o seu neto.
+
+Dores/ Desafios
+Joana se perde muito por não ter uma rota pré-definida. Perde muito tempo tentando planejar um roteiro de entrega e ainda assim, acaba fazendo um trajeto ineficiente.
+Precisa otimizar as atividades como notificadora para se dedicar mais à confeitaria, considerando que demora para concluir suas atividades diárias.
+Tem muita dificuldade com tecnologias e coisas novas, também não se interessa em aprender porque se julga incapaz
+
+
+
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
