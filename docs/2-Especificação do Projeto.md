@@ -17,12 +17,30 @@ Estado civil: Casada
 Cidade: Jaboticatubas 
 Mídias: Twitter, Facebook e Instagram  
 
-Um pouco da sua historia
+Biografia
 Alice mineira nascida na região da serra do espinhaço, no município de Jaboticatubas, tem 54 anos, apaixonada por sua família e pela natureza, trabalhou por anos em um cartório em Belo Horizonte como escrevente, hoje trabalha em seu próprio cartório. É aficcionada por inovações tecnológicas. Também é simpática e muito influente na cidade. Seu hobby favorito são as caminhadas ao ar livre.
 
 Desafios 
 o	Administrar melhor seu Cartório, procurar ferramentas e mecanismos que facilitem a rotina no trabalho de toda sua equipe. 
 o	Otimização de processos. 
+
+
+Bruno Almeida
+Idade: 27 anos
+Profissão: Notificador
+Instrução: Graduando em Administração
+Estado civil: Solteiro, não possui filhos
+Cidade: Belo Horizonte-MG
+Mídias: Twitter, Facebook e Instagram  
+
+Biografia
+Bruno Almeida, tem 27 anos, cursa Administração no período noturno e trabalha no período integral. Ele é fã de novas tecnologias, utiliza muitos apps para facilitar seu dia a dia bastante atarefado. É um homem bastante comunicativo, tem facilidade de relacionar com as pessoas. Bruno gosta de ouvir músicas eletrônicas e podcast, e tem hábito de praticar corridas de rua aos finais de semana. Fica muito tempo conectado na internet, utilização maior pelo celular.
+
+Desafios
+•	Por por não conseguir atender muitas demandas, perder muito tempo no deslocamento entre uma notificação e outra, além do alto custo financeiro para o deslocamento com pouca logística, Bruno acredita que poderia utilizar a tecnologia a seu favor para melhorar seu desempenho com as notificações. Otimizando seu trabalho, atenderia com mais eficácia suas demandas e aumentaria a segurança do processo referente às notificações extrajudiciárias.
+
+
+
 
 
 > **Links Úteis**:
