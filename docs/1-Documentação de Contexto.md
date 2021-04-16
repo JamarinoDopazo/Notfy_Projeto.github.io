@@ -28,7 +28,7 @@ As notificações cartorárias imobiliárias extrajudiciais são, de certa forma
 
 ## Público-Alvo
 
-O público alvo do projeto Notfy é composto por Notificadores e Notários registradores de Cartórios de Registro de Imóveis. A faixa etária predominante é de pessoas com idade entre 30 e 40 anos, com vários níveis de escolaridade, porém familiarizadas com aplicações web.
+O público alvo do projeto Notfy é composto por Notificadores e Notários registradores de Cartórios de Registro de Imóveis. A faixa etária predominante é de pessoas com idade entre 30 e 40 anos, com vários níveis de escolaridade, familiarizadas com aplicativos e mídias sociais.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
