@@ -8,9 +8,22 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Alice 
+Idade: 54 anos
+Gênero: Feminino 
+Profissão: Tabeliã 
+Instrução: Bacharel em Direito 
+Estado civil: Casada 
+Cidade: Jaboticatubas 
+Mídias: Twitter, Facebook e Instagram  
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Um pouco da sua historia
+Alice mineira nascida na região da serra do espinhaço, no município de Jaboticatubas, tem 54 anos, apaixonada por sua família e pela natureza, trabalhou por anos em um cartório em Belo Horizonte como escrevente, hoje trabalha em seu próprio cartório. É aficcionada por inovações tecnológicas. Também é simpática e muito influente na cidade. Seu hobby favorito são as caminhadas ao ar livre.
+
+Desafios 
+o	Administrar melhor seu Cartório, procurar ferramentas e mecanismos que facilitem a rotina no trabalho de toda sua equipe. 
+o	Otimização de processos. 
+
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -26,10 +39,11 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`       |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------------|----------------------------------------|
+|Administrador       | Gerenciar melhor os processos do cartório|Reduzir os custos do cartório           |
+|Administrador       | Facilitar o trabalho dos funcionários    |Dar mais celeridade aos processos       |
+|Usuário do sistema  | Alterar permissões                       | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
