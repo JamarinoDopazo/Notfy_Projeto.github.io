@@ -40,6 +40,22 @@ Desafios
 •	Por por não conseguir atender muitas demandas, perder muito tempo no deslocamento entre uma notificação e outra, além do alto custo financeiro para o deslocamento com pouca logística, Bruno acredita que poderia utilizar a tecnologia a seu favor para melhorar seu desempenho com as notificações. Otimizando seu trabalho, atenderia com mais eficácia suas demandas e aumentaria a segurança do processo referente às notificações extrajudiciárias.
 
 
+Cíntia
+Idade: 45 anos
+Gênero: Feminino 
+Profissão: Advogada e Notária de Cartório 
+Instrução: Bacharel em Direito 
+Estado civil: Casada 
+Cidade: Contagem
+Mídias: Facebook e Instagram  
+
+Um pouco da sua história
+É advogada e notária em um cartório na região de Contagem/MG. Casada e mãe de duas crianças, gosta de passar o tempo livre com sua família.
+Ela tem um perfil analítico e focada em conhecimento, obcecada com novidades e inovações. Quer sempre qualificar sua equipe, porém não dispõe de muito tempo e sua agenda está sempre apertada.
+
+Desafios 
+Ela gostaria de aumentar seus resultados utilizando ferramentas tecnológicas que simplifiquem seus processos diários otimizando tempo e gerando melhores resultados - com estratégias inovadoras, ser líder referência para sua equipe.
+Seus principais obstáculos são o excesso de tarefas e a dificuldade de gestão de tempo, além da falta de incentivo e aprovação da direção para colocar em prática todas as suas ideias.
 
 
 
