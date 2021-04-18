@@ -1,6 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
@@ -35,7 +34,7 @@ Cidade: Belo Horizonte
 Mídias: Twitter, Facebook e Instagram  
 
 Biografia:
-Bruno Almeida, tem 27 anos, cursa Administração no período noturno e trabalha no período integral. Ele é fã de novas tecnologias, utiliza muitos apps para facilitar seu dia a dia bastante atarefado. É um homem bastante comunicativo, tem facilidade de relacionar com as pessoas. Bruno gosta de ouvir músicas eletrônicas e podcast, e tem hábito de praticar corridas de rua aos finais de semana. Fica muito tempo conectado na internet, utilização maior pelo celular.
+Bruno Almeida, tem 27 anos, cursa Administração no período noturno e trabalha no período integral. Ele é fã de novas tecnologias, utiliza muitos apps para facilitar seu dia a dia bastante atarefado. É um homem muito comunicativo, tem facilidade de relacionar com as pessoas. Bruno gosta de ouvir músicas eletrônicas e podcast, e tem hábito de praticar corridas de rua aos finais de semana. Fica muito tempo conectado na internet, utilização maior pelo celular.
 
 Desafios:
 Por por não conseguir atender muitas demandas, perder muito tempo no deslocamento entre uma notificação e outra, além do alto custo financeiro para o deslocamento com pouca logística, Bruno acredita que poderia utilizar a tecnologia a seu favor para melhorar seu desempenho com as notificações. Otimizando seu trabalho, atenderia com mais eficácia suas demandas e aumentaria a segurança do processo referente às notificações extrajudiciárias.
@@ -67,18 +66,16 @@ Escolaridade: Ensino médio completo
 Estado civil: Casada.
 Cidade: Belo Horizonte - MG
 
-Sobre Joana:
+Biografia:
 Joana é uma mulher de 47 anos, mãe de 2 filhos adultos e avó de 1 neto. 
-Trabalha como notificadora a 20 anos. Não tem a pretensão de avançar nos estudos e está satisfeita com sua escolarização e profissão. Também não gosta de ferramentas complicadas.
+Trabalha como notificadora há 20 anos. Não tem a pretensão de avançar nos estudos e está satisfeita com sua escolarização e profissão. Também não gosta de ferramentas complicadas.
 Após o expediente, Joana faz doces para a confeitaria que ele tem em casa com uma de suas filhas. 
-
-Lazer:
 Nos momentos de lazer, gosta de assistir novelas e ler revistas e ter um tempo livre com o seu neto.
 
-Dores/ Desafios
+Desafios
 Joana se perde muito por não ter uma rota pré-definida. Perde muito tempo tentando planejar um roteiro de entrega e ainda assim, acaba fazendo um trajeto ineficiente.
 Precisa otimizar as atividades como notificadora para se dedicar mais à confeitaria, considerando que demora para concluir suas atividades diárias.
-Tem muita dificuldade com tecnologias e coisas novas, também não se interessa em aprender porque se julga incapaz
+Tem muita dificuldade com tecnologias e coisas novas, também não se interessa em aprender porque se julga incapaz.
 
 
 
@@ -101,7 +98,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------------|----------------------------------------|
 |Administrador       | Gerenciar melhor os processos do cartório|Reduzir os custos do cartório           |
 |Administrador       | Facilitar o trabalho dos funcionários    |Dar mais celeridade aos processos       |
-|Usuário do sistema  | Alterar permissões                       | Permitir que possam administrar contas |
+|Notificador         | Cadastrar Notificandos                   |Criar banco de dados                    |
+|Notificador         | Gerar rotas                              |Organizar as notificações por endereços |  
+|Notificador         | Dar check-in em cada diligência          |Comprovar a realização do trabalho      |
+|Notificador         | Gerar certidão através do sistema        |Agilizar a conclusão do trabalho        |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
