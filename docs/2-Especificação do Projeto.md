@@ -55,25 +55,11 @@ Desafios:
 Ela gostaria de aumentar seus resultados utilizando ferramentas tecnológicas que simplifiquem seus processos diários otimizando tempo e gerando melhores resultados - com estratégias inovadoras, ser líder referência para sua equipe.
 Seus principais obstáculos são o excesso de tarefas e a dificuldade de gestão de tempo, além da falta de incentivo e aprovação da direção para colocar em prática todas as suas ideias.
 
+Joana Dark Idade: 47 anos Profissão: Notificadora Escolaridade: Ensino médio completo Estado civil: Casada. Cidade: Belo Horizonte - MG
 
+Biografia: Joana é uma mulher de 47 anos, mãe de 2 filhos adultos e avó de 1 neto. Trabalha como notificadora há 20 anos. Não tem a pretensão de avançar nos estudos e está satisfeita com sua escolarização e profissão. Também não gosta de ferramentas complicadas. Após o expediente, Joana faz doces para a confeitaria que ele tem em casa com uma de suas filhas. Nos momentos de lazer, gosta de assistir novelas e ler revistas e ter um tempo livre com o seu neto.
 
-Joana Dark
-Idade: 47 anos
-Profissão: Notificadora
-Escolaridade: Ensino médio completo
-Estado civil: Casada.
-Cidade: Belo Horizonte - MG
-
-Sobre Joana:
-Joana é uma mulher de 47 anos, mãe de 2 filhos adultos e avó de 1 neto. 
-Trabalha como notificadora a 20 anos. Não tem a pretensão de avançar nos estudos e está satisfeita com sua escolarização e profissão. Também não gosta de ferramentas complicadas.
-Após o expediente, Joana faz doces para a confeitaria que ele tem em casa com uma de suas filhas. 
-Nos momentos de lazer, gosta de assistir novelas e ler revistas e ter um tempo livre com o seu neto.
-
-Desafios
-Joana se perde muito por não ter uma rota pré-definida. Perde muito tempo tentando planejar um roteiro de entrega e ainda assim, acaba fazendo um trajeto ineficiente.
-Precisa otimizar as atividades como notificadora para se dedicar mais à confeitaria, considerando que demora para concluir suas atividades diárias.
-Tem muita dificuldade com tecnologias e coisas novas, também não se interessa em aprender porque se julga incapaz
+Desafios Joana se perde muito por não ter uma rota pré-definida. Perde muito tempo tentando planejar um roteiro de entrega e ainda assim, acaba fazendo um trajeto ineficiente. Precisa otimizar as atividades como notificadora para se dedicar mais à confeitaria, considerando que demora para concluir suas atividades diárias. Tem muita dificuldade com tecnologias e coisas novas, também não se interessa em aprender porque se julga incapaz.
 
 
 ## Histórias de Usuários
