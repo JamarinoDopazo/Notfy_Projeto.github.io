@@ -113,7 +113,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| Deve realisar reuisições assincronamente | ALTA |
-|RNF-004| DEve atender a maior parte possível das Heurísticas de Nielsen para usabilidade |  ALTA | 
+|RNF-004| Deve atender a maior parte possível das Heurísticas de Nielsen para usabilidade |  ALTA | 
 |RNF-005| Deve ser acessível para pessoas com deficiência, segundo as métricas estabelecidas pelo W3C |  MéDIA | 
 |RNF-006| Disponibilidade - Deve permitir imput de informações em modo off-line |  MÉDIA | 
 |RNF-007| Segurança - Autenticação de usuário para consumo de webservices do sistema por sistemas externos |  ALTA | 
