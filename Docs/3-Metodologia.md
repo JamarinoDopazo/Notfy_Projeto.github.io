@@ -28,14 +28,24 @@ etiquetas:
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
+
+AMBIENTE															PLATAFORMA									LINK DE ACESSO													
+
+- Repositório de 						GitHub													https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
+Código Fonte
+
+- Documentos do 							Google Drive
+Projeto
+
+- Projeto de 										Figma														https://www.figma.com/files/team/971926543268179490/Notefy?fuid=971926537049499462
+interface e 
+wireframes
+
+- Gerenciamento do 				GitHub													https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
+Projeto
+
 
 ### Divisão de Papéis
 
