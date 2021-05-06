@@ -12,7 +12,7 @@ Notfy - é uma aplicação web voltada para a otimização do processo de notifi
 ## Integrantes
 
 - Flávio Duarte Carvalho 
-- Janaina Jamarino Rosa Dopazo
+- Janaina Jamarino Rosa
 - Leandro David Metzker 
 - Luiza Jamarino Rosa Grigório
 - Platiní Gomes da Rocha
