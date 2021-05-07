@@ -30,7 +30,6 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 
 ## Gerenciamento de Projeto
-![Relação de Ambientes de Trabalhos](C:\Users\Platini\Documents\PUC MINAS - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS\PROJETO\pmv-ads-2021-1-e1-proj-web-t4-notfy\docs\img\Relação de Ambientes de Trabalhos.png)
 
 AMBIENTE															PLATAFORMA									LINK DE ACESSO													
 
