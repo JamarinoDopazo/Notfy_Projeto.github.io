@@ -28,42 +28,23 @@ etiquetas:
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
+> **Links Úteis**:
+> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
+> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+>  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
+> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
-Relação de Ambientes de Trabalho:
-
-AMBIENTE: Repositório de código fonte - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
-
-AMBIENTE: Documentos do Projeto - PLATAFORMA: Google Drive - LINK DE ACESSO:
-
-AMBIENTE: Projeto de Interface e Wireframes - PLATAFORMA: Figma - LINK DE ACESSO: https://www.figma.com/files/team/971926543268179490/Notefy?fuid=971926537049499462
-
-ABIENTE: Gerenciamento do Ptojeto - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
-
-
 ### Divisão de Papéis
 
-A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+Apresente a divisão de papéis entre os membros do grupo.
 
-A equipe está organizada da seguinte maneira:
-Scrum Master: Janaina Jamarino Rosa
-Product Owner: Flávio Duarte Carvalho
-Equipe de Desenvolvimento e Design
-Leandro David Metzker
-Luiza Jamarino Rosa Grigório
-Platini Gomes da Rocha
-Priscilha Alves
-
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Automated Kanban no próprio GitHub, estruturado com as seguintes listas: 
-
-Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
-To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
-Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
-Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
-
-O quadro kanban do grupo no GitHub está disponível na URL Planejamento do Projeto (github.com) e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
-
+> **Links Úteis**:
+> - [11 Passos Essenciais para Implantar Scrum no seu 
+> Projeto](https://mindmaster.com.br/scrum-11-passos/)
+> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
