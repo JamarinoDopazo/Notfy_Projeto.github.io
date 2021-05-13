@@ -10,7 +10,7 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Os componentes que fazem parte da solução são apresentados na Figura.
 
-![Diagrama de Componentes](img/exemplo.png)
+![Diagrama de Componentes](img/componntes.png)
 <center>Figura XX - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
