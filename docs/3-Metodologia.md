@@ -31,20 +31,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-Relação de Ambientes de Trabalho:
-
-AMBIENTE: Repositório de código fonte - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
-
-AMBIENTE: Documentos do Projeto - PLATAFORMA: Google Drive - LINK DE ACESSO:
-
-AMBIENTE: Projeto de Interface e Wireframes - PLATAFORMA: Figma - LINK DE ACESSO: https://www.figma.com/files/team/971926543268179490/Notefy?fuid=971926537049499462
-
-ABIENTE: Gerenciamento do Ptojeto - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 
 ### Divisão de Papéis
-
-A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
 Scrum Master: Janaina Jamarino Rosa
@@ -54,6 +44,9 @@ Leandro David Metzker
 Luiza Jamarino Rosa Grigório
 Platini Gomes da Rocha
 Priscilha Alves
+
+
+### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Automated Kanban no próprio GitHub, estruturado com as seguintes listas: 
 
@@ -65,32 +58,14 @@ Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle
 O quadro kanban do grupo no GitHub está disponível na URL Planejamento do Projeto (github.com) e é apresentado, no estado atual, na Figura X. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
 
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+Relação de Ambientes de Trabalho:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+AMBIENTE: Repositório de código fonte - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+AMBIENTE: Documentos do Projeto - PLATAFORMA: Google Drive - LINK DE ACESSO:
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+AMBIENTE: Projeto de Interface e Wireframes - PLATAFORMA: Figma - LINK DE ACESSO: https://www.figma.com/files/team/971926543268179490/Notefy?fuid=971926537049499462
+
+ABIENTE: Gerenciamento do Ptojeto - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
