@@ -36,6 +36,8 @@ As tecnologias utilizadas para a aplicação Notefy são:
 - Automated Kanban;
 - Figma.
 
+Padrão de arquitetura  - MVC
+
 
 O HTML será utilizado pra estruturação dos elementos da página em conjunto com CSS para personalização e estilização.
 
