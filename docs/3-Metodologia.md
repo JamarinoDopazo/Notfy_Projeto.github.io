@@ -3,7 +3,14 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O modelo de processo adotado no processo é o modelo Cascata. A escolha deste modelo ocorreu devido ao mesmo ser aplicável a sistemas cujos requisitos são bem definidos e pelo fato de exigir uma documentação mais rídiga e completa, ideal nesse caso, já que se trata de um trabalho acadêmico. Além disso, uma vantagem adicional de se utilizar esse modelo é o fato de o desenvolvimento de software se dará ao longo da disciplina de Projeto cuja ementa segue o modelo cascata. Desta forma, na medida com que as aulas avançam, as tarefas a serem desenvolvidas acompanham o conteúdo estudado.
+
+Desta forma, todas as etapas envolvidas no processo de desenvolvimento do software serão descritas na órdem com que são mencionadas no diagrama do modelo cascata, representado à seguir:
+
+[incluir  imagem do modelo cascata]
+
+Segundo o modelo definido acima, a estruturação do documento se dá em seções nas quais em cada uma será apresentado os resultados do desenvolvimentode cada uma das atividades que compõem o modelo Cascata. Além disso, a padronização dos diagramas de UML se dará por meio da utiulização da ferramenta Draw.io para o desenvolvimentoe compartilhamento de todas as representações. Outra decisão importante foi manter a IDE visual Code e o repositório do GitHub para o desenvolvimento e compartilhamento de todo projeto.
+
 
 ## Controle de Versão
 
@@ -13,26 +20,25 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branchs:
 
-- `master`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+- `Main`: versão estável já testada do software
+- `Homologação`: versão desenvolvida e em fase de testes.
+- `Desenvolvimento`: versão em desenvolvimento
+
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
+- `documentação`: melhorias ou acréscimos à documentação
 - `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+- `melhorias`: uma funcionalidade precisa ser melhorada
+- `funcionalidade`: uma nova funcionalidade precisa ser introduzida
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
 
 ## Gerenciamento de Projeto
 
-A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
-
+Apesar de usarmos o modelo cascata, dadas às limitações impostas pela estrutura da disciplina, a equipe introduz processos de metodologias ágeis em cada etapa e se divide conforme se segue:
 
 ### Divisão de Papéis
 
