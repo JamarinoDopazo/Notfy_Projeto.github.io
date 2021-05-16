@@ -29,7 +29,7 @@ A solução implementada conta com os seguintes módulos:
 ## Tecnologias Utilizadas
 
 As tecnologias utilizadas para a aplicação Notefy são:
-- GitHub e GitHub Desktop
+- GitHub e GitHub Desktop;
 - Linguagens: HTML, CSS, JavaScript;
 - Heroku;
 - Visual Studio Code;
@@ -37,9 +37,14 @@ As tecnologias utilizadas para a aplicação Notefy são:
 - Figma.
 
 
+O HTML será utilizado pra estruturação dos elementos da página em conjunto com CSS para personalização e estilização.
+
+Por se tratar apenas de front end, nesta etapa, usaremos Javascript para validação de dados cadastrais. Posteriormente, o deploy da aplicação será feito através do Heroku.
+
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+
 
 
 ## Hospedagem
 
-Para hospedagem o site vai utilizar a plataforma Heroku como ambiente do projeto Notefy. A URL onde o site é mantido está disponível em: https://notefy.herokuapp.com
+Para hospedagem o site vai utilizar a plataforma Heroku como ambiente do projeto Notfy. A URL onde o site é mantido está disponível em: https://notfy.herokuapp.com
