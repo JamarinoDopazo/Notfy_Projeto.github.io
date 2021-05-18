@@ -47,9 +47,9 @@ AMBIENTE: Repositório de código fonte - PLATAFORMA: GitHub - LINK DE ACESSO: h
 
 AMBIENTE: Documentos do Projeto - PLATAFORMA: Google Drive - LINK DE ACESSO:
 
-AMBIENTE: Projeto de Interface e Wireframes - PLATAFORMA: Figma - LINK DE ACESSO: https://www.figma.com/files/team/971926543268179490/Notefy?fuid=971926537049499462
+AMBIENTE: Projeto de Interface e Wireframes - PLATAFORMA: Figma - LINK DE ACESSO: https://www.figma.com/file/0wLeTFn99dQOVJLFLxnZgq/Untitled?node-id=0%3A1
 
-ABIENTE: Gerenciamento do Ptojeto - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
+AMBIENTE: Gerenciamento do Ptojeto - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
 
 
 
