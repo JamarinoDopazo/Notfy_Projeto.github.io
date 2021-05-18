@@ -43,13 +43,7 @@ O HTML será utilizado pra estruturação dos elementos da página em conjunto c
 
 Por se tratar apenas de front end, nesta etapa, usaremos Javascript para validação de dados cadastrais. Posteriormente, o deploy da aplicação será feito através do Heroku.
 
-AMBIENTE: Repositório de código fonte - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
-
-AMBIENTE: Documentos do Projeto - PLATAFORMA: Google Drive - LINK DE ACESSO: https://drive.google.com/drive/folders/10HNldqxvMJU2gMgoVKLvsbEcBZy8yA3z?usp=sharing
-
-AMBIENTE: Projeto de Interface e Wireframes - PLATAFORMA: Figma - LINK DE ACESSO: https://www.figma.com/file/0wLeTFn99dQOVJLFLxnZgq/Untitled?node-id=0%3A1
-
-AMBIENTE: Gerenciamento do Ptojeto - PLATAFORMA: GitHub - LINK DE ACESSO: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t4-notfy
+![Diagrama de Componentes](img/DiagramaArquitetura.jpg)
 
 
 
