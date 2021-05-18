@@ -43,7 +43,7 @@ O HTML será utilizado pra estruturação dos elementos da página em conjunto c
 
 Por se tratar apenas de front end, nesta etapa, usaremos Javascript para validação de dados cadastrais. Posteriormente, o deploy da aplicação será feito através do Heroku.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+![Diagrama de Componentes](img/DiagramaArquitetura.png)
 
 
 
