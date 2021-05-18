@@ -14,10 +14,9 @@ Além da técnica de Cenários, foi utilizada a técnica de modelagem de linguag
 
 ## User Flow
 
+Para o User Flow, foi utilizada a ferramenta figma, conforme imagem abaixo. Link para o projeto de design no figma encontra-se ao final do capítulo de Metodologia.
+
 ![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
 
 
 ## Wireframes
