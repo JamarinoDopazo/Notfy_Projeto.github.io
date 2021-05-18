@@ -7,7 +7,7 @@ O modelo de processo adotado no processo é o modelo Cascata. A escolha deste mo
 
 Desta forma, todas as etapas envolvidas no processo de desenvolvimento do software serão descritas na órdem com que são mencionadas no diagrama do modelo cascata, representado à seguir:
 
-![Modelo Cascata](docs/img/cascata.PNG)
+![Modelo Cascata](/img/cascata.jpg)
 
 Segundo o modelo definido acima, a estruturação do documento se dá em seções nas quais em cada uma será apresentado os resultados do desenvolvimentode cada uma das atividades que compõem o modelo Cascata. Além disso, a padronização dos diagramas de UML se dará por meio da utiulização da ferramenta Draw.io para o desenvolvimentoe compartilhamento de todas as representações. Outra decisão importante foi manter a IDE visual Code e o repositório do GitHub para o desenvolvimento e compartilhamento de todo projeto.
 
