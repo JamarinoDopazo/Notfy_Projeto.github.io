@@ -28,7 +28,7 @@ A solução implementada conta com os seguintes módulos:
 
 ## Tecnologias Utilizadas
 
-As tecnologias utilizadas para a aplicação Notefy são:
+As tecnologias utilizadas para a aplicação Notfy são:
 - GitHub e GitHub Desktop;
 - Linguagens: HTML, CSS, JavaScript;
 - Heroku;
