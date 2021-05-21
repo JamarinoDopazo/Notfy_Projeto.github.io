@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Para modelagem da interface, foi realizado um trabalho por meio de técnica de Cenários. Dessa form, são apresentados os cenários referentes a cadas caso de uso possível.
+Para modelagem da interface, foi realizado um trabalho por meio de técnica de Cenários. Dessa forma, são apresentados os cenários referentes a cada caso de uso possível.
 
 Segue arquivo com descrição dos cenários:
 > - [cenário](https://docs.google.com/document/d/1B6K9W_zBE8XcV7CANFFQRDr3VPNfdjq8b-S5wv8J0kg/edit?usp=sharing)
