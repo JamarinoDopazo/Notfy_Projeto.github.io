@@ -3,13 +3,13 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-O modelo de processo adotado no processo é o modelo Cascata. A escolha deste modelo ocorreu devido ao mesmo ser aplicável a sistemas cujos requisitos são bem definidos e pelo fato de exigir uma documentação mais rídiga e completa, ideal nesse caso, já que se trata de um trabalho acadêmico. Além disso, uma vantagem adicional de se utilizar esse modelo é o fato de o desenvolvimento de software se dará ao longo da disciplina de Projeto cuja ementa segue o modelo cascata. Desta forma, na medida com que as aulas avançam, as tarefas a serem desenvolvidas acompanham o conteúdo estudado.
+O modelo de processo adotado no processo é o modelo Cascata. A escolha deste modelo ocorreu devido ao mesmo ser aplicável a sistemas cujos requisitos são bem definidos e pelo fato de exigir uma documentação mais rígida e completa, ideal nesse caso, já que se trata de um trabalho acadêmico. Além disso, uma vantagem adicional de se utilizar esse modelo é o fato de o desenvolvimento de software se dará ao longo da disciplina de Projeto cuja ementa segue o modelo cascata. Desta forma, na medida com que as aulas avançam, as tarefas a serem desenvolvidas acompanham o conteúdo estudado.
 
 Desta forma, todas as etapas envolvidas no processo de desenvolvimento do software serão descritas na órdem com que são mencionadas no diagrama do modelo cascata, representado à seguir:
 
 ![Modelo Cascata](img/cascata.jpg)
 
-Segundo o modelo definido acima, a estruturação do documento se dá em seções nas quais em cada uma será apresentado os resultados do desenvolvimentode cada uma das atividades que compõem o modelo Cascata. Além disso, a padronização dos diagramas de UML se dará por meio da utiulização da ferramenta Draw.io para o desenvolvimentoe compartilhamento de todas as representações. Outra decisão importante foi manter a IDE visual Code e o repositório do GitHub para o desenvolvimento e compartilhamento de todo projeto.
+Segundo o modelo definido acima, a estruturação do documento se dá em seções nas quais em cada uma serão apresentados os resultados do desenvolvimento de cada uma das atividades que compõem o modelo Cascata. Além disso, a padronização dos diagramas de UML se dará por meio da utiulização da ferramenta Draw.io para o desenvolvimento e compartilhamento de todas as representações. Outra decisão importante foi manter a IDE visual Code e o repositório do GitHub para o desenvolvimento e compartilhamento de todo projeto.
 
 
 ## Controle de Versão
